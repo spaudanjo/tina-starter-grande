@@ -1,16 +1,16 @@
 {
   "menuItems": [
     {
-      "label": "Contact",
-      "link": "/contact"
-    },
-    {
       "label": "About",
       "link": "/about"
     },
     {
       "label": "Blog",
       "link": "/blog"
+    },
+    {
+      "label": "Contact",
+      "link": "/contact"
     },
     {
       "label": "Test Page",
