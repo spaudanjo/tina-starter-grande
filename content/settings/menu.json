@@ -1,8 +1,8 @@
 {
   "menuItems": [
     {
-      "label": "Home",
-      "link": "/"
+      "label": "Contact",
+      "link": "/contact"
     },
     {
       "label": "About",
@@ -13,8 +13,8 @@
       "link": "/blog"
     },
     {
-      "label": "Contact",
-      "link": "/contact"
+      "label": "Home",
+      "link": "/"
     }
   ]
 }
