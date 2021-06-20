@@ -3,6 +3,11 @@
   "path": "/about",
   "blocks": [
     {
+      "image": "../images/[object Object]",
+      "_template": "ImageBlock",
+      "content": ""
+    },
+    {
       "_template": "TitleBlock",
       "title": "",
       "underline": true,
