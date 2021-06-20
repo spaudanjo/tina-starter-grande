@@ -1,10 +1,6 @@
 {
   "menuItems": [
     {
-      "label": "Test Page",
-      "link": "/test-page"
-    },
-    {
       "label": "Contact",
       "link": "/contact"
     },
@@ -15,6 +11,10 @@
     {
       "label": "Blog",
       "link": "/blog"
+    },
+    {
+      "label": "Test Page",
+      "link": "/test-page"
     },
     {
       "label": "Home",
