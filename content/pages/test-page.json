@@ -1,0 +1,16 @@
+{
+  "title": "Test Page",
+  "path": "/test-page",
+  "hero": {
+    "headline": "Hero Headline",
+    "textline": "Textline content here",
+    "image": "../images/[object Object]",
+    "large": false,
+    "ctas": [
+      {
+        "label": "Action Item 1"
+      },
+      {}
+    ]
+  }
+}
