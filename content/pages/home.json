@@ -7,7 +7,7 @@
     }
   ],
   "hero": {
-    "headline": "Welcome to phantas Boxtribute",
+    "headline": "Welcome to the great Boxtribute",
     "textline": "Boxtribute is a digital system that works hand-in-hand with our partners in the field to deliver humanitarian aid quickly and fairly.",
     "ctas": [
       {
@@ -23,7 +23,7 @@
         "primary": false
       }
     ],
-    "image": "../images/hero_image_shop.png",
+    "image": "../images/[object Object]",
     "large": true
   },
   "displayTitle": false,
