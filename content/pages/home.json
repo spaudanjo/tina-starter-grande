@@ -7,11 +7,11 @@
     }
   ],
   "hero": {
-    "headline": "Welcome to the amazing Boxtribute!",
+    "headline": "Welcome to the great Boxtribute!",
     "textline": "Boxtribute is a digital system that works hand-in-hand with our partners in the field to deliver humanitarian aid quickly and fairly.",
     "ctas": [
       {
-        "label": "Read The Blog",
+        "label": "Read The Blog Now!",
         "link": "/blog",
         "primary": true,
         "arrow": true
